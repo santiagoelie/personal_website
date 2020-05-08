@@ -12,7 +12,9 @@ _____________________________________________
 
 ##### Wireframes:
 1. Desktop View
-
+![](assets/images/blog_home_page.png)
+![](assets/images/blog_post_page.png)
+![](assets/images/about_me_page.png)
 
 
 2. Mobile View
