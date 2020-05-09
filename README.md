@@ -4,9 +4,9 @@ Personal Portfolio
 _____________________________________________
 
 ##### User Stories:
-1.
+1. As a junior web developer. We want to build a personal website to show my personal information and web projects. This is serve as personal blog of your work as a web developer.
 
-2.
+2. As a software engineer. We always want to create something just to enhanced our skill in technology. It's a great idea to create a site as a container of all projects.
 
 _____________________________________________
 
