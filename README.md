@@ -31,8 +31,8 @@ _____________________________________________
 ##### Details: Personal website or personal portfolio.
 ##### Technologies used: HTML, CSS/SASS, JavaScript/jQuery.
 ##### Future Improvements:
-1.
+1. By using Bootstrap, I want to learn more other technics and design built in bootstrap. It's a great framework because it gives me the ability to create a website like this portfolio fast and responsiveness. 
 
-2.
+2. And also I want to enhance my design skill. To build a great design for any web app, I created. Like this portfolio. I want to try other design that has a more animation or to integrate interactive site.
 
-3.
+3. By learning and creating web application. I also want to try other frameworks, that gives the ability to write less. And do more with the pre-built code.
