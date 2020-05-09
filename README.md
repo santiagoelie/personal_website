@@ -28,8 +28,8 @@ _____________________________________________
 
 ##### Name: Eliezer Santiago
 ##### Overview/Description of Project: The main purpose of this project is to create a website for personal portfolio. To show case what is all about you and the projects you've done.
-##### Details:
-##### Technologies used: HTML, CSS/SASS, JavaScript/jQuery
+##### Details: Personal website or personal portfolio.
+##### Technologies used: HTML, CSS/SASS, JavaScript/jQuery.
 ##### Future Improvements:
 1.
 
